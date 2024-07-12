@@ -8,3 +8,5 @@ Switch plates are rather necessary.
 Switches around the edges of the board are prone to rocking and being pulled out from the sockets.
 These plates prevent that and incidentally allow usage of 5-pin MX switches.
 For ALPS (or their Matias version) plates also align the switches, compensating for the lack of additional pins in those switches.
+
+![ThumbsUp! v5 MX Switch Plates](https://github.com/ak66666/ThubmsUpSwitchPlates/blob/main/ThumbsUp%20v5/ThumbsUp!%20v5%20switch%20plates.png?raw=true)
